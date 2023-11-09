@@ -1,6 +1,6 @@
 # Datapack icons
 
-This is port of [Datapack Icons](https://marketplace.visualstudio.com/items?itemName=SuperAnt.mc-dp-icons) extension for Sublime Text.
+This is a port of [Datapack Icons](https://marketplace.visualstudio.com/items?itemName=SuperAnt.mc-dp-icons) extension for Sublime Text.
 Unfortunately Sublime Text packages are very limited when it comes to customizing the icons, so the port contains only basic icons for folders and some file types.
 
 ![Package preview](./illustrations/preview.png)
