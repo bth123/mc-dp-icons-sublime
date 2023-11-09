@@ -11,7 +11,7 @@ Unfortunately Sublime Text packages are very limited when it comes to customizin
 
 1. [Install Package Control](https://packagecontrol.io/installation) if it is not already present.
 2. Open command palette (`Ctrl+Shift+P`), run the `Package Control: Add Repository` command and enter `https://github.com/bth123/mc-dp-icons-sublime/tree/main`.
-3. Run the `Package Control: Install Package` command and search for `mc-dp-icons` to install it.
+3. Run the `Package Control: Install Package` command and search for `mc-dp-icons-sublime` to install it.
 
 Note: This will keep the package updated with the repository automatically.
 
