@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+# Used for image formats that ST doesn't support natively
+name: Vertex Shader
+file_extensions:
+  - vsh
+scope: source.glsl.vsh
+hidden: true
+contexts:
+  main:
+    - include: scope:source.glsl

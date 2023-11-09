@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+# Used for image formats that ST doesn't support natively
+name: NBT
+file_extensions:
+  - nbt
+scope: source.binary.nbt
+hidden: true
+contexts:
+  main:
+    - include: scope:source.binary

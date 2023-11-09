@@ -1,0 +1,12 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+# Used for image formats that ST doesn't support natively
+name: mcmeta
+file_extensions:
+  - mcmeta
+scope: source.json.mcmeta
+hidden: false
+contexts:
+  main:
+    - include: scope:source.json
