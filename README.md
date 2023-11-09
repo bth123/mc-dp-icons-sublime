@@ -2,6 +2,7 @@
 
 This is port of [Datapack Icons](https://marketplace.visualstudio.com/items?itemName=SuperAnt.mc-dp-icons) extension for Sublime Text.
 Unfortunately Sublime Text packages are very limited when it comes to customizing the icons, so the port contains only basic icons for folders and some file types.
+
 ![Package preview](./illustrations/preview.png)
 
 # Install
@@ -9,7 +10,7 @@ Unfortunately Sublime Text packages are very limited when it comes to customizin
 ## Installing via package control
 
 1. [Install Package Control](https://packagecontrol.io/installation) if it is not already present.
-2. Open command palette (`Ctrl+Shift+P`), run the `Package Control: Add Repository` command and enter `https//github.com/bth123/mc-dp-icons`.
+2. Open command palette (`Ctrl+Shift+P`), run the `Package Control: Add Repository` command and enter `https//github.com/bth123/mc-dp-icons-sublime`.
 3. Run the `Package Control: Install Package` command and search for `mc-dp-icons` to install it.
 
 Note: This will keep the package updated with the repository automatically.
@@ -17,7 +18,7 @@ Note: This will keep the package updated with the repository automatically.
 ## Installing manually
 
 1. Download the main branch.
-2. Unzip it to `%appdata%/Sublime Text 3\Packages` to install the package.
+2. Unzip it to `%appdata%/Sublime Text 3/Packages` to install the package.
 
 Note: You'll need to update package manually.
 
