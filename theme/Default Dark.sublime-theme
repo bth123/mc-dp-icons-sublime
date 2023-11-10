@@ -29,9 +29,9 @@
 		"class": "icon_folder",
 		"content_margin": [9, 9],
 		"layer0.opacity": 0,
-		"layer1.texture": "mc-dp-icons/theme/folder.png",
+		"layer1.texture": "mc-dp-icons-sublime/theme/folder.png",
 		"layer1.opacity": 1,
-		"layer2.texture": "mc-dp-icons/theme/folder-open.png",
+		"layer2.texture": "mc-dp-icons-sublime/theme/folder-open.png",
 		"layer2.opacity": 0
 	},
 	{
