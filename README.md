@@ -5,6 +5,8 @@ Unfortunately Sublime Text packages are more limited than vsc's extensions when 
 
 # Install
 
+As of right now, dynamic mcfunction icons works only when package installed manually in as folder.
+
 ## Installing via package control
 
 1. [Install Package Control](https://packagecontrol.io/installation) if it is not already present.
