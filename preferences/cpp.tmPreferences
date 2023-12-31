@@ -2,11 +2,11 @@
 <plist version="1.0">
   <dict>
     <key>scope</key>
-    <string>source.mcfunction.tick</string>
+    <string>source.c++</string>
     <key>settings</key>
     <dict>
       <key>icon</key>
-      <string>mcfunction_tick</string>
+      <string>cpp</string>
     </dict>
   </dict>
 </plist>

@@ -2,11 +2,11 @@
 <plist version="1.0">
   <dict>
     <key>scope</key>
-    <string>source.mcfunction.tick</string>
+    <string>source.js.jmc</string>
     <key>settings</key>
     <dict>
       <key>icon</key>
-      <string>mcfunction_tick</string>
+      <string>jmc</string>
     </dict>
   </dict>
 </plist>
