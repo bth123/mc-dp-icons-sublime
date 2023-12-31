@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+contexts:
+  main:
+  - include: scope:source.mcfunction
+file_extensions: null
+hidden: true
+name: Load mcfunction
+scope: source.mcfunction.load

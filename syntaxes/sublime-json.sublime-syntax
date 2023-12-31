@@ -1,0 +1,14 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+name: JSON
+file_extensions:
+  - sublime-build
+  - sublime-settings
+  - sublime-macro
+  - sublime-theme
+scope: sublime.json
+hidden: true
+contexts:
+  main:
+    - include: scope:source.json

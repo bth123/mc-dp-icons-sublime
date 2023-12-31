@@ -2,11 +2,11 @@
 ---
 # http://www.sublimetext.com/docs/3/syntax.html
 # Used for image formats that ST doesn't support natively
-name: NBT
+name: JMC
 file_extensions:
-  - nbt
-scope: source.binary.nbt
+  - jmc
+scope: source.js.jmc
 hidden: false
 contexts:
   main:
-    - include: scope:source.binary
+    - include: scope:source.js

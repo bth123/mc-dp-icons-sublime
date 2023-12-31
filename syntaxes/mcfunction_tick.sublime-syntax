@@ -1,0 +1,9 @@
+%YAML 1.2
+---
+contexts:
+  main:
+  - include: scope:source.mcfunction
+file_extensions: null
+hidden: true
+name: Tick mcfunction
+scope: source.mcfunction.tick

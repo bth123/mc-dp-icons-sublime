@@ -1,0 +1,13 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+# Used for image formats that ST doesn't support natively
+name: Font
+file_extensions:
+  - ttf
+  - otf
+scope: binary.font
+hidden: true
+contexts:
+  main:
+    - include: scope:source.binary

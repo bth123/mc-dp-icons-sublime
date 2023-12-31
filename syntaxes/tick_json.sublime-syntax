@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/3/syntax.html
+name: JSON
+file_extensions:
+  - tick.json
+scope: source.json.tick
+hidden: true
+contexts:
+  main:
+    - include: scope:source.json

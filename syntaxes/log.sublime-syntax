@@ -2,11 +2,12 @@
 ---
 # http://www.sublimetext.com/docs/3/syntax.html
 # Used for image formats that ST doesn't support natively
-name: NBT
+name: Log
 file_extensions:
-  - nbt
-scope: source.binary.nbt
-hidden: false
+  - log
+  - log.txt
+scope: text.log
+hidden: true
 contexts:
   main:
-    - include: scope:source.binary
+    - include: scope:text

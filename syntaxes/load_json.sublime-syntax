@@ -2,11 +2,11 @@
 ---
 # http://www.sublimetext.com/docs/3/syntax.html
 # Used for image formats that ST doesn't support natively
-name: NBT
+name: JSON
 file_extensions:
-  - nbt
-scope: source.binary.nbt
-hidden: false
+  - load.json
+scope: source.json.load
+hidden: true
 contexts:
   main:
-    - include: scope:source.binary
+    - include: scope:source.json

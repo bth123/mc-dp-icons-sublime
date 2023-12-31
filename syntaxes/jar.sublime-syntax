@@ -1,0 +1,11 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/syntax.html
+name: JAR
+file_extensions:
+  - jar
+scope: source.binary.jar
+hidden: false
+contexts:
+  main:
+    - include: scope:source.binary
